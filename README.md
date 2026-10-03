@@ -134,4 +134,8 @@ print(f"Predicted price: ${y_scaler.inverse_transform(pred)[0][0]:,.0f}")
 Python · TensorFlow/Keras · scikit-learn · Optuna · pandas · NumPy · Matplotlib · Seaborn
 
 ## 👤 Author
-**Gayatri Vidhate** – Data Scientist (NLP & GenAI) · [GitHub](https://github.com/gayatri-vidhate-3)
+**Gayatri Vidhate**
+
+Data Scientist | Machine Learning Engineer | NLP Engineer | GenAI Engineer
+
+If you found this useful, feel free to ⭐ the repo or connect with me!
