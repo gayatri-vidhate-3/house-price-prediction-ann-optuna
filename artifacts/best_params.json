@@ -1,0 +1,12 @@
+{
+  "n_layers": 2,
+  "activation": "relu",
+  "dropout": 0.2,
+  "l2": 3.5488995212428855e-05,
+  "lr": 0.0009866147353327387,
+  "batch_size": 128,
+  "loss": "mean_squared_error",
+  "units_l0": 64,
+  "units_l1": 256,
+  "use_feature_engineering": true
+}
